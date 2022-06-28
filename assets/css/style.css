@@ -1,0 +1,32 @@
+:root {
+  --main-green-color: #65C466;
+  --light-color: #FFFFFF;
+  --grey-color: #A3A3A3;
+  --dark-grey-color: #414141;
+
+
+  font-family: 'Mulish', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+
+@media screen and (min-width:768px){
+  :root{
+    font-size:13px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  :root{
+    font-size:16px;
+  }
+}
+@media screen and (min-width:1336px){
+  :root{
+    font-size:18px
+  }
+}
+@media screen and (min-width:1920px){
+  :root{
+    font-size:23px;
+  }
+}
