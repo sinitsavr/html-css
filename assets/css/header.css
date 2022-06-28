@@ -1,0 +1,12 @@
+.header{
+  margin-top: 0.5rem;
+}
+.header-container{
+  border-radius: 4px;
+  background-color: var(--green-color);
+  color: var(--white-color)
+}
+.flex-justify{
+  justify-content: space-between;
+  align-items: center;
+}
