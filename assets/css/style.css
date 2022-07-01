@@ -9,6 +9,9 @@
   font-size: 13px;
   font-weight: 400;
 }
+.text-align-center{
+  text-align: center;
+}
 
 @media screen and (min-width:768px){
   :root{
